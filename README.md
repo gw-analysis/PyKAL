@@ -1,2 +1,2 @@
 # PyKAL
-Python modules for KAGRA data analysis library
+Python-based KAGRA data analysis library
