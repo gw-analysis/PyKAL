@@ -211,6 +211,8 @@ def CouplingPoints(cache_drc, ach, bch, s, d, a=None, df=None, freq_list):
         avg = 1  
         bvg = float(dur/avg)   
 
+    if type(freq_list) == list :
+        pass
 
     ########### Reading Cache ###########
 
