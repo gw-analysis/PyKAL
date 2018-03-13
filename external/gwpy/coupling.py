@@ -1,6 +1,6 @@
 #!/bin/env python
 
-def CouplingArange(cache_drc, ach, bch, s, d, a=None, df=None, f0=None, f1=None) :
+def CouplingArrange(cache_drc, ach, bch, s, d, a=None, df=None, f0=None, f1=None) :
 
     ## [1] cache_drc   :: Enter Cache file direction
     ## [2] ach         :: Enter first channel name to compare
